@@ -1,4 +1,4 @@
-Passionate Software Engineer exploring the depths of algorithms and data structures to craft elegant solutions
+Passionate Software Engineer exploring the depths of algorithms and data structures to craft elegant solutions <br>
 📫 You can reach me at wahyuditaruna97@gmail.com
 
 <!---
