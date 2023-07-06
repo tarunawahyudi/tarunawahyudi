@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @tarunawahyudi
-- 👀 I’m interested in Software Achitecture and Data Science
-- 📫 You can reach me at wahyuditaruna97@gmail.com
+Passionate Software Engineer exploring the depths of algorithms and data structures to craft elegant solutions
+📫 You can reach me at wahyuditaruna97@gmail.com
 
 <!---
 tarunawahyudi/tarunawahyudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
