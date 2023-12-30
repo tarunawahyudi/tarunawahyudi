@@ -5,11 +5,6 @@
 <a href="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/update-snk.yml"><img src="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
 <a href="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/recent-activity.yml"><img src="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
 
-<table align="right">
- <tr><td><a href="https://github.com/tarunawahyudi/tarunawahyudi/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/tarunawahyudi/tarunawahyudi/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Indonesian flag" width="17px">  Indonesian</a></td></tr>
-</table>
-
 <h2>ℹ️ Project info</h2>
 <div>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tarunawahyudi/tarunawahyudi?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
