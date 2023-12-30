@@ -5,19 +5,6 @@
 <a href="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/update-snk.yml"><img src="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
 <a href="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/recent-activity.yml"><img src="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
 
-<h2>ℹ️ Project info</h2>
-<div>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tarunawahyudi/tarunawahyudi?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/tarunawahyudi/tarunawahyudi?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tarunawahyudi/tarunawahyudi?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/tarunawahyudi/tarunawahyudi?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/tarunawahyudi/tarunawahyudi?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
-</div>
-
-
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/tarunawahyudi">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/tarunawahyudi?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@tarunawahyudi" height="22px">
