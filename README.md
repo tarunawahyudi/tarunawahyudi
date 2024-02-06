@@ -1,10 +1,6 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="Discover the Artistry in Every Algorithm." src="https://github.com/tarunawahyudi/tarunawahyudi/blob/main/assets/banner.png"></div>
 
-<a href="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/lastfm.yml"><img src="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
-<a href="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/update-snk.yml"><img src="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
-<a href="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/recent-activity.yml"><img src="https://github.com/tarunawahyudi/tarunawahyudi/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
-
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/tarunawahyudi">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/tarunawahyudi?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@tarunawahyudi" height="22px">
